@@ -1,0 +1,59 @@
+img {
+    height: 2rem;
+    display: block;
+    margin: auto;
+}
+td {
+    vertical-align: top;
+}
+.regionbox-content {
+    opacity: 0;
+    max-height: 0rem;
+    transition: all 0.3s;
+}
+label {
+    display: flex;
+    padding-left: 1rem;
+    margin-left: -1rem;
+    transition: all 0.3s;
+    user-select: none;
+    cursor: pointer;
+}
+label:before {
+     content: "■";
+}
+.regionbox-toggle {
+    display: none;
+}
+.regionbox-toggle:checked + * label:before {
+    content: "▼";
+}
+.regionbox-toggle:checked + * + .regionbox-content {
+    opacity: 1;
+    max-height: 100rem;
+    transition: all 0.6s;
+}
+.tag
+{
+  background: #1976d2;
+  color: #fff;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 5px 10px;
+  margin: 3px 0;
+  border-radius: 6px;
+  display: inline-block;
+}
+
+.tag.positive {
+	background: #388e3c;
+}
+
+.tag.negative {
+	background: #d32f2f;
+}
+
+.tag.purchase {
+	background: #ffa000;
+}
