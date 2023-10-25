@@ -5,6 +5,7 @@ A collection of useful tips, guides and lists about tech topics.
 
 ## Topics
 ### Web
+* [Schwarze Liste (Gendersprech)](topic/web/schwarze-liste-gendersprech)
 * [List of Online Shops](topic/web/online-shops.md)
 * [List of Online Tools](topic/web/online-tools.md)
 
