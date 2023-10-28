@@ -10,6 +10,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | C. H. Beck | https://www.chbeck.de |  |
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
+| Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
 | Facebook | https://www.facebook.com |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
