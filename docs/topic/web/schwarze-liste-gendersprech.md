@@ -1,6 +1,6 @@
 # Schwarze Liste (Gendersprech)
 
-Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten bzw. Organisationen.
+Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen. Die jeweiligen Sprachvergewaltiger kann man guten Gewissens als Dirnensprosse der ganz besonderen Sorte betrachten.
 
 | Name | URL | Notizen |
 | --- | --- | --- |
@@ -14,8 +14,11 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
+| Open Access Network | https://open-access.network |  |
+| OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Penguin-Random-House-Verlagsgruppe, Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | Spotify | https://www.spotify.com |  |
+| Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
 | Thalia | https://www.thalia.de |  |
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
 | Twitter | https://twitter.com | Aliasse: X |
