@@ -13,6 +13,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
+| Handyhase | https://www.handyhase.de |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
