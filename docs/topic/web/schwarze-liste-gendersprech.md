@@ -11,6 +11,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
+| Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
@@ -20,6 +21,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | Penguin Random House | https://www.penguin.de | Aliasse: Penguin-Random-House-Verlagsgruppe, Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
+| Teufel | https://teufel.de |  |
 | Tegut | https://www.tegut.com |  |
 | Thalia | https://www.thalia.de |  |
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
