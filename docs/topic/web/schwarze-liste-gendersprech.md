@@ -14,6 +14,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | FragDenStaat | https://fragdenstaat.de |  |
+| Google | https://www.google.com | Play Store |
 | Handyhase | https://www.handyhase.de |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
