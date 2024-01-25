@@ -36,3 +36,4 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | Vogel Communications Group | https://www.vogel.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
+| ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
