@@ -25,6 +25,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
+| ScienceSlam | https://www.scienceslam.de |  |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
 | Teufel | https://teufel.de |  |
