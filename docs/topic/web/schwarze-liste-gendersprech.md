@@ -2,6 +2,8 @@
 
 Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen. Die jeweiligen Sprachvergewaltiger kann man guten Gewissens als Dirnensprosse der ganz besonderen Sorte betrachten.
 
+Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig bzw. sprachlich falsch und nur um der Ideologie willen verwendet werden (bspw. Fußgehende statt Fußgänger, Backende statt Bäcker).
+
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Apple | https://www.apple.com |  |
@@ -16,6 +18,7 @@ Dies ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendet
 | FragDenStaat | https://fragdenstaat.de |  |
 | Google | https://www.google.com | Play Store |
 | Handyhase | https://www.handyhase.de |  |
+| Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
