@@ -8,6 +8,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | --- | --- | --- |
 | Apple | https://www.apple.com |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
+| Bethesda | https://bethesda.net/de |  |
 | Brockhaus | https://brockhaus.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | Deezer | https://www.deezer.com |  |
