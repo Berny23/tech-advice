@@ -13,7 +13,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | C. H. Beck | https://www.chbeck.de |  |
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
-| Die Nachbarn |  | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
+| Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
 | Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
