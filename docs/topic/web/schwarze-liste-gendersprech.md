@@ -18,6 +18,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | FragDenStaat | https://fragdenstaat.de |  |
+| Futurezone | https://futurezone.at |  |
 | Google | https://www.google.com | Play Store |
 | Handyhase | https://www.handyhase.de |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |  |
