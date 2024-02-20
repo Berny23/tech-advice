@@ -38,6 +38,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Tegut | https://www.tegut.com |  |
 | Thalia | https://www.thalia.de |  |
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
+| TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
 | OE24 | https://www.oe24.at |  |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
