@@ -6,6 +6,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 
 | Name | URL | Notizen |
 | --- | --- | --- |
+| Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
 | Apple | https://www.apple.com |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
 | Bethesda | https://bethesda.net/de |  |
