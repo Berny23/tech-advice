@@ -33,6 +33,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
 | ScienceSlam | https://www.scienceslam.de |  |
+| Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
 | Teufel | https://teufel.de |  |
