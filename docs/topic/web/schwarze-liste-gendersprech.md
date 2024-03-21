@@ -47,4 +47,5 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Vogel Communications Group | https://www.vogel.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
+| Y-Kollektiv | https://youtube.com/@ykollektiv | Verantwortlich sind Radio Bremen und ARD |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
