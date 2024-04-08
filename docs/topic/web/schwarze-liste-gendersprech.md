@@ -19,6 +19,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | FragDenStaat | https://fragdenstaat.de |  |
+| Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
 | Google | https://www.google.com | Play Store |
 | Handyhase | https://www.handyhase.de |  |
@@ -47,5 +48,4 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Vogel Communications Group | https://www.vogel.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
-| Y-Kollektiv | https://youtube.com/@ykollektiv | Verantwortlich sind Radio Bremen und ARD |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
