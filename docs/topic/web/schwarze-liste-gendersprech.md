@@ -22,6 +22,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
 | Google | https://www.google.com | Play Store |
+| HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |  |
 | LinkedIn | https://www.linkedin.com |  |
