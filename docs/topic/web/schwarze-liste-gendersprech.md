@@ -12,6 +12,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Bethesda | https://bethesda.net/de |  |
 | Brockhaus | https://brockhaus.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
+| Chaos Computer Club | https://www.ccc.de | Aliasse: CCC |
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
@@ -21,10 +22,10 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | FragDenStaat | https://fragdenstaat.de |  |
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
-| Google | https://www.google.com | Play Store |
+| Google | https://www.google.com | Manche Events im Play Store |
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
-| Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |  |
+| Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
