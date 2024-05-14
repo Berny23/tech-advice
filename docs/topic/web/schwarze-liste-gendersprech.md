@@ -36,6 +36,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
+| Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
 | ScienceSlam | https://www.scienceslam.de |  |
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
