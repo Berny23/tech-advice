@@ -42,8 +42,9 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
-| Teufel | https://teufel.de |  |
 | Tegut | https://www.tegut.com |  |
+| TeilzeitHelden | https://www.teilzeithelden.de |  |
+| Teufel | https://teufel.de |  |
 | Thalia | https://www.thalia.de |  |
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
 | TikTok | https://www.tiktok.com |  |
