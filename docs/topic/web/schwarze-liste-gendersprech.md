@@ -36,6 +36,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Penguin-Random-House-Verlagsgruppe, Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
+| Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
