@@ -28,6 +28,7 @@ Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig b
 | Handyhase | https://www.handyhase.de |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | kino.de | https://www.kino.de |  |
+| LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
