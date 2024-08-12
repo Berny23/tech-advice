@@ -11,7 +11,8 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
 | Apple | https://www.apple.com |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
-| Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson | Schade, wirklich schade um den guten Poki. |
+| Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
+| Bergische Universität Wuppertal | https://www.uni-wuppertal.de |  |
 | Bethesda | https://bethesda.net/de |  |
 | Brockhaus | https://brockhaus.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
