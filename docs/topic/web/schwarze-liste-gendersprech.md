@@ -14,6 +14,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
 | Bergische Universität Wuppertal | https://www.uni-wuppertal.de |  |
 | Bethesda | https://bethesda.net/de |  |
+| Bonn | https://www.bonn.de |  |
 | Brockhaus | https://brockhaus.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | Chaos Computer Club | https://www.ccc.de | Aliasse: CCC |
