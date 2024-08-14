@@ -34,6 +34,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | kino.de | https://www.kino.de |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
+| meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
 | Netflix | https://www.netflix.com/de |  |
