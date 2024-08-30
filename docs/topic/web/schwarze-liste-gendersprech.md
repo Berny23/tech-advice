@@ -16,6 +16,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Bethesda | https://bethesda.net/de |  |
 | Bonn | https://www.bonn.de |  |
 | Brockhaus | https://brockhaus.de |  |
+| BurdaForward | https://www.burda-forward.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | Chaos Computer Club | https://www.ccc.de | Aliasse: CCC |
 | Chip | https://www.chip.de |  |
