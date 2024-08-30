@@ -18,6 +18,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Brockhaus | https://brockhaus.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | Chaos Computer Club | https://www.ccc.de | Aliasse: CCC |
+| Chip | https://www.chip.de |  |
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
