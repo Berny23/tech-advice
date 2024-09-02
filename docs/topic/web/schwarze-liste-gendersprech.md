@@ -34,6 +34,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
+| JetBrains | https://www.jetbrains.com |  |
 | kino.de | https://www.kino.de |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
