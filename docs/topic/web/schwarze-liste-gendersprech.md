@@ -69,6 +69,8 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 
 ## Spiele
 
+Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. Publisher! Spart euch das Geld und legt es lieber an, dann habt ihr mehr davon.
+
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
