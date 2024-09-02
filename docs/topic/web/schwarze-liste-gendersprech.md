@@ -66,3 +66,9 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
+
+## Spiele
+
+| Name | URL | Notizen |
+| --- | --- | --- |
+| Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
