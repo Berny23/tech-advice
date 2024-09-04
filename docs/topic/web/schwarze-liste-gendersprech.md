@@ -75,3 +75,4 @@ Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. 
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
+| Harry Potter: Quidditch Champions | https://store.steampowered.com/app/2878600/Harry_Potter_Quidditch_Champions/ |  |
