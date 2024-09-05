@@ -38,6 +38,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | kino.de | https://www.kino.de |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
+| Mattel | https://news.mattel.de |  |
 | meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
@@ -76,3 +77,8 @@ Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. 
 | --- | --- | --- |
 | Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
 | Harry Potter: Quidditch Champions | https://store.steampowered.com/app/2878600/Harry_Potter_Quidditch_Champions/ |  |
+
+Brettspiele
+| Name | URL | Notizen |
+| --- | --- | --- |
+| Scrabble | https://news.mattel.de/pressreleases/am-welt-scrabble-r-tag-gibt-es-den-stein-des-anstosses-zum-gendern-3175450 | Keine Spiele mit Produktionsdatum 2022+ mehr kaufen! |
