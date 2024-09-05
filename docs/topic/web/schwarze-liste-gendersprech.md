@@ -6,6 +6,8 @@ Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverbl
 
 Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig bzw. sprachlich falsch und nur um der Ideologie willen verwendet werden (bspw. Fußgehende statt Fußgänger, Backende statt Bäcker).
 
+## Allgemein
+
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
@@ -69,7 +71,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
 
-## Spiele
+## Computerspiele
 
 Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. Publisher! Spart euch das Geld und legt es lieber an, dann habt ihr mehr davon.
 
@@ -78,7 +80,7 @@ Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. 
 | Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
 | Harry Potter: Quidditch Champions | https://store.steampowered.com/app/2878600/Harry_Potter_Quidditch_Champions/ |  |
 
-Brettspiele
+## Brettspiele
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Scrabble | https://news.mattel.de/pressreleases/am-welt-scrabble-r-tag-gibt-es-den-stein-des-anstosses-zum-gendern-3175450 | Keine Spiele mit Produktionsdatum 2022+ mehr kaufen! |
