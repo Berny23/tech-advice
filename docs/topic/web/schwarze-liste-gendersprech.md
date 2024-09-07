@@ -46,6 +46,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
 | Netflix | https://www.netflix.com/de |  |
+| Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
 | Open Access Network | https://open-access.network |  |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Penguin-Random-House-Verlagsgruppe, Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
