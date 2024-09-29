@@ -50,7 +50,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
 | Open Access Network | https://open-access.network |  |
 | OpenRewi | https://openrewi.org |  |
-| Penguin Random House | https://www.penguin.de | Aliasse: Penguin-Random-House-Verlagsgruppe, Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
+| Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
@@ -87,6 +87,7 @@ Mein Steam-Kurator: [Gegen Gendersprech!](https://store.steampowered.com/curator
 | Starfield | https://store.steampowered.com/app/1716740/Starfield/?curator_clanid=45184526 | Mindestens an einer Stelle im Spiel und überall auf der Shopseite |
 
 ## Brettspiele
+
 | Name | URL | Notizen |
 | --- | --- | --- |
 | Scrabble | https://news.mattel.de/pressreleases/am-welt-scrabble-r-tag-gibt-es-den-stein-des-anstosses-zum-gendern-3175450 | Anleitung verseucht, keine Spiele mit Produktionsdatum 2022+ mehr kaufen! |
