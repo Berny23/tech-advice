@@ -76,14 +76,17 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 
 ## Computerspiele
 
-Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. Publisher! Spart euch das Geld und legt es lieber an, dann habt ihr mehr davon.
+Kauft keines dieser Spiele und boykottiert die verantwortlichen Entwickler bzw. Publisher! Spart euch den Kauf und legt das Geld lieber an, dann habt ihr mehr davon.
+
+Mein Steam-Kurator: [Gegen Gendersprech!](https://store.steampowered.com/curator/45184526/)
 
 | Name | URL | Notizen |
 | --- | --- | --- |
-| Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/ |  |
-| Harry Potter: Quidditch Champions | https://store.steampowered.com/app/2878600/Harry_Potter_Quidditch_Champions/ |  |
+| Dragon Age: The Veilguard | https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/?curator_clanid=45184526 | Überall auf der Shopseite |
+| Harry Potter: Quidditch Champions | https://store.steampowered.com/app/2878600/Harry_Potter_Quidditch_Champions/?curator_clanid=45184526 | Überall auf der Shopseite und im Trailer |
+| Starfield | https://store.steampowered.com/app/1716740/Starfield/?curator_clanid=45184526 | Mindestens an einer Stelle im Spiel und überall auf der Shopseite |
 
 ## Brettspiele
 | Name | URL | Notizen |
 | --- | --- | --- |
-| Scrabble | https://news.mattel.de/pressreleases/am-welt-scrabble-r-tag-gibt-es-den-stein-des-anstosses-zum-gendern-3175450 | Keine Spiele mit Produktionsdatum 2022+ mehr kaufen! |
+| Scrabble | https://news.mattel.de/pressreleases/am-welt-scrabble-r-tag-gibt-es-den-stein-des-anstosses-zum-gendern-3175450 | Anleitung verseucht, keine Spiele mit Produktionsdatum 2022+ mehr kaufen! |
