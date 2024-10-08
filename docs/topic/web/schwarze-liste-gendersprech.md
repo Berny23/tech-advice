@@ -1,6 +1,6 @@
 # Schwarze Liste (Gendersprech)
 
-Wer die Sprache kontrolliert, hat Macht über das Denken der Menschen – und mit was lässt sich besser herrschen als mit Angst und Ausgrenzung? Gendersprache erinnert nicht zufällig an das „Neusprech“ in Orwells dystopischem Roman „1984“. Eine Lektüre lohnt sich!
+Wer die Sprache kontrolliert, hat Macht über das Denken der Menschen – und womit lässt sich besser herrschen als mit Angst und Ausgrenzung? Gendersprache erinnert nicht zufällig an das „Neusprech“ in Orwells dystopischem Roman „1984“. Eine Lektüre lohnt sich!
 
 Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und Diskriminierung Andersdenkender befürworten.
 
@@ -60,6 +60,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
+| Systemabsturz | https://www.instagram.com/system_absturz | Deutsche Musik machen, aber dann unsere schöne Sprache zerstören – na klar doch! |
 | Tegut | https://www.tegut.com |  |
 | TeilzeitHelden | https://www.teilzeithelden.de |  |
 | Teufel | https://teufel.de |  |
