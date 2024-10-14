@@ -63,6 +63,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
 | Systemabsturz | https://www.instagram.com/system_absturz | Deutsche Musik machen, aber dann unsere schöne Sprache zerstören – na klar doch! |
+| Tchncs | https://tchncs.de | Nicht einmal für einen einheitlichen Stil des Schwachsinns konnte man sich entscheiden |
 | Tegut | https://www.tegut.com |  |
 | TeilzeitHelden | https://www.teilzeithelden.de |  |
 | Teufel | https://teufel.de |  |
