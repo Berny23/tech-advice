@@ -28,7 +28,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
-| Felix Ernst | https://wordsmith.social/felixernst |  |
+| Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
 | FragDenStaat | https://fragdenstaat.de |  |
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
