@@ -58,6 +58,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
+| Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Terrorattacke auf unsere bereits marode Schulbildung |
 | ScienceSlam | https://www.scienceslam.de |  |
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
@@ -77,6 +78,8 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
+| ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Hurensohnsprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
+| Leibniz-Zentrum für Literatur- und Kulturforschung | https://www.zfl-berlin.org | Die hätten lieber bei ihren Keksen bleiben sollen. ;) |
 
 ## Computerspiele
 
