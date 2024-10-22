@@ -74,6 +74,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Twitter | https://twitter.com | Aliasse: X |
 | OE24 | https://www.oe24.at |  |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
+| Vodafone | https://www.vodafone.de |  |
 | Vogel Communications Group | https://www.vogel.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
