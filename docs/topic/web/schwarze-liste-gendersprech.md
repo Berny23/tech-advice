@@ -27,6 +27,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
 | Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
+| Evangelisches Beratungszentrum München | https://www.ebz-muenchen.de | Habt ihr keine Angst vor der Hölle? |
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
