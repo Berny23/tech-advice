@@ -12,6 +12,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | --- | --- | --- |
 | 9elements | https://9elements.com/de |  |
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
+| AdGuard | https://adguard.com/de | App ebenfalls verseucht! |
 | Apple | https://www.apple.com |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
 | Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
