@@ -52,6 +52,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
+| Nerdbeben | https://boxd.it/4Mpkt | Schade, dass man gute Reviews so verschandeln muss. |
 | NeustartBildungJetzt | https://neustart-bildung-jetzt.de | Angebot der „Vodafone Stiftung“ (nur echt mit Deppenleerzeichen) |
 | Netflix | https://www.netflix.com/de |  |
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
