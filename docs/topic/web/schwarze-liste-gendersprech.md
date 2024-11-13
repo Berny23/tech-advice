@@ -43,6 +43,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
 | HiFi.de | https://hifi.de | Können sich nicht einmal entscheiden, welche Zeichen sie für die Scheiße benutzen. |
+| idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | JetBrains | https://www.jetbrains.com |  |
 | kino.de | https://www.kino.de |  |
