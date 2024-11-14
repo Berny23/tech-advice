@@ -57,6 +57,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | NeustartBildungJetzt | https://neustart-bildung-jetzt.de | Angebot der „Vodafone Stiftung“ (nur echt mit Deppenleerzeichen) |
 | Netflix | https://www.netflix.com/de |  |
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
+| Oche Balboa | https://boxd.it/3pX11 |  |
 | Open Access Network | https://open-access.network |  |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
