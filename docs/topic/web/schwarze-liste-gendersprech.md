@@ -10,6 +10,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 
 | Name | URL | Notizen |
 | --- | --- | --- |
+| 12drue | https://boxd.it/3ay3B |  |
 | 9elements | https://9elements.com/de |  |
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
 | AdGuard | https://adguard.com/de | App ebenfalls verseucht! |
