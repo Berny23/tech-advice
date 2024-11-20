@@ -62,6 +62,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Netflix | https://www.netflix.com/de |  |
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
 | Oche Balboa | https://boxd.it/3pX11 |  |
+| OE24 | https://www.oe24.at |  |
 | Open Access Network | https://open-access.network |  |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
@@ -85,7 +86,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
 | TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
-| OE24 | https://www.oe24.at |  |
+| USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
 | Vodafone | https://www.vodafone.de |  |
 | Vogel Communications Group | https://www.vogel.de |  |
