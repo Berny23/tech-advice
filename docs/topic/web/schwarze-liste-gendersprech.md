@@ -86,6 +86,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
 | TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
+| Typoakademie | https://www.typoakademie.de |  |
 | USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
 | Vodafone | https://www.vodafone.de |  |
