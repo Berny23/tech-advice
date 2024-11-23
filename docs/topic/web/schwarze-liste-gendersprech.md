@@ -2,7 +2,7 @@
 
 Wer die Sprache kontrolliert, hat Macht über das Denken der Menschen – und womit lässt sich besser herrschen als mit Angst und Ausgrenzung? Gendersprache erinnert nicht zufällig an das „Neusprech“ in Orwells dystopischem Roman „1984“. Eine Lektüre lohnt sich!
 
-Das Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter dem generischen Begriff „Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.
+Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter der kontextlosen, generischen Bezeichnung „die Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.
 
 Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und Diskriminierung Andersdenkender befürworten.
 
@@ -16,6 +16,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | 9elements | https://9elements.com/de |  |
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
 | AdGuard | https://adguard.com/de | App ebenfalls verseucht! |
+| Amadeu-Antonio-Stiftung | https://www.amadeu-antonio-stiftung.de | Sehr engagierte Sexisten. Eigenschreibweise: Amadeu Antonio Stiftung (nur echt mit Deppenleerzeichen) |
 | Apple | https://www.apple.com |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
 | Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
@@ -31,7 +32,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Deezer | https://www.deezer.com |  |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
-| Diogenes | https://www.diogenes.ch | Aliasse: Diogenes-Verlag |
+| Diogenes-Verlag | https://www.diogenes.ch | Eigenschreibweise: Diogenes Verlag (nur echt mit Deppenleerzeichen) |
 | Evangelisches Beratungszentrum München | https://www.ebz-muenchen.de | Habt ihr keine Angst vor der Hölle? |
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
@@ -40,7 +41,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
 | GamePro | https://www.gamepro.de |  |
-| Google | https://www.google.com | Manche Events im Play Store |
+| Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music |
 | Goethe-Institut | https://goethe.de |  |
 | Hamburg | https://www.hamburg.de |  |
 | HateAid | https://hateaid.org |  |
@@ -84,7 +85,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | TeilzeitHelden | https://www.teilzeithelden.de |  |
 | Teufel | https://teufel.de |  |
 | Thalia | https://www.thalia.de |  |
-| Thieme | https://www.thieme.com | Aliasse: Thieme-Gruppe, Thieme-Verlagsgruppe |
+| Thieme-Verlag | https://www.thieme.com | Eigenschreibweisen: Thieme Gruppe, Thieme Verlagsgruppe, Georg Thieme Verlag (nur echt mit Deppenleerzeichen) |
 | TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
 | Typoakademie | https://www.typoakademie.de |  |
