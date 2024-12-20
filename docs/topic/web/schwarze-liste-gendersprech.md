@@ -51,6 +51,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | JetBrains | https://www.jetbrains.com |  |
+| Johannes | https://boxd.it/3KTsz |  |
 | julihan41 | https://www.gutefrage.net/nutzer/julihan41 |  |
 | kino.de | https://www.kino.de |  |
 | kilianmurphy | https://boxd.it/4lNkX |  |
