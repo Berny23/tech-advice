@@ -95,6 +95,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Ulrich Faßnacht | https://www.instagram.com/ulrichfassnacht |  |
 | USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
+| VierEckAuge | https://boxd.it/Xmlz | Ist zwar gegen Rassismus (gut!), aber dafür eine Sexistin. Schade. |
 | Vodafone | https://www.vodafone.de |  |
 | Vogel Communications Group | https://www.vogel.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
