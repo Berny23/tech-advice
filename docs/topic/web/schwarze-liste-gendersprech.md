@@ -92,6 +92,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
 | Typoakademie | https://www.typoakademie.de |  |
+| Ulrich Faßnacht | https://www.instagram.com/ulrichfassnacht |  |
 | USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
 | Vodafone | https://www.vodafone.de |  |
