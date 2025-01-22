@@ -79,7 +79,8 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
 | Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Terrorattacke auf unsere bereits marode Schulbildung |
 | ScienceSlam | https://www.scienceslam.de |  |
-| SciFlow | https://www.sciflow.net/de/ | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
+| SciFlow | https://www.sciflow.net/de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
+| Scribbr | https://www.scribbr.de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
