@@ -22,6 +22,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
 | Bergische Universität Wuppertal | https://www.uni-wuppertal.de |  |
 | Bethesda | https://bethesda.net/de |  |
+| Bildungsbericht | https://www.bildungsbericht.de | Bildung durch Ideologen und Sexisten? Nein, danke. |
 | Bonn | https://www.bonn.de |  |
 | Brockhaus | https://brockhaus.de |  |
 | BurdaForward | https://www.burda-forward.de |  |
