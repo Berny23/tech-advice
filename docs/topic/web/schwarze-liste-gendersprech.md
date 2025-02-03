@@ -102,6 +102,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | VierEckAuge | https://boxd.it/Xmlz | Ist zwar gegen Rassismus (gut!), aber dafür eine Sexistin. Schade. |
 | Vodafone | https://www.vodafone.de |  |
 | Vogel Communications Group | https://www.vogel.de |  |
+| Vogue | https://www.vogue.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
