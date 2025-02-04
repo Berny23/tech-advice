@@ -44,6 +44,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
 | Futurezone | https://futurezone.at |  |
 | GamePro | https://www.gamepro.de |  |
+| GnuPG | https://gnupg.com |  |
 | Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music |
 | Goethe-Institut | https://goethe.de |  |
 | Hamburg | https://www.hamburg.de |  |
