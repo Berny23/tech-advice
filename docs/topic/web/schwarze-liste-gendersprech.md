@@ -4,7 +4,7 @@ Wer die Sprache kontrolliert, hat Macht über das Denken der Menschen – und wo
 
 Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter der kontextlosen, generischen Bezeichnung „die Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.
 
-Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und Diskriminierung Andersdenkender befürworten.
+Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und [Diskriminierung Andersdenkender](https://www.corrigenda.online/kultur/juergen-ploehn-wie-ich-mich-gegen-gendersprech-meiner-universitaet-zur-wehr-setzte) befürworten.
 
 Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, unnötig bzw. sprachlich falsch und nur um der Ideologie willen verwendet werden (bspw. Fußgehende statt Fußgänger, Backende statt Bäcker).
 
