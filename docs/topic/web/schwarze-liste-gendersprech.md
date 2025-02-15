@@ -25,6 +25,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Bildungsbericht | https://www.bildungsbericht.de | Bildung durch Ideologen und Sexisten? Nein, danke. |
 | Bonn | https://www.bonn.de |  |
 | Brockhaus | https://brockhaus.de |  |
+| bruno_mattei | https://letterboxd.com/bruno_mattei |  |
 | BurdaForward | https://www.burda-forward.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | cassandras_view | https://boxd.it/6w26z |  |
