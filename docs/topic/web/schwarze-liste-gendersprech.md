@@ -105,6 +105,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Vogel Communications Group | https://www.vogel.de |  |
 | Vogue | https://www.vogue.de |  |
 | WhatsApp | https://www.whatsapp.com |  |
+| Wikipedia | https://www.wikipedia.de | Seiten zu Events und Treffen sind von sexistischer Sprache geplagt. |
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
 | ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Hurensohnsprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
