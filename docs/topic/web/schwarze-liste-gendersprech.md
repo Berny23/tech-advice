@@ -61,6 +61,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Mattel | https://news.mattel.de |  |
+| Mozilla | https://www.mozilla.org/de |  |
 | meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
 | Napster | https://www.napster.com/de |  |
