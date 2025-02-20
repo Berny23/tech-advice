@@ -86,6 +86,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Rotze | https://open.spotify.com/artist/7e6mHn187ZchzIjtrRg4IX | Musik-Band. Der Name ist wohl Programm, auch bei der Sprache. |
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
 | Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Terrorattacke auf unsere bereits marode Schulbildung |
+| Schülerrabatte | https://www.schuelerrabatte.com/de |  |
 | ScienceSlam | https://www.scienceslam.de |  |
 | SciFlow | https://www.sciflow.net/de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
 | Scribbr | https://www.scribbr.de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
