@@ -18,6 +18,8 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | AdGuard | https://adguard.com/de | App ebenfalls verseucht! |
 | Amadeu-Antonio-Stiftung | https://www.amadeu-antonio-stiftung.de | Sehr engagierte Sexisten. Eigenschreibweise: Amadeu Antonio Stiftung (nur echt mit Deppenleerzeichen) |
 | Apple | https://www.apple.com |  |
+| Azubi | https://www.azubi.de | Diese Sexisten werben sogar mit ihrer linksextremen Sprachvergewaltigung |
+| Azubiyo | https://www.azubiyo.de |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
 | Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
 | Bergische Universität Wuppertal | https://www.uni-wuppertal.de |  |
