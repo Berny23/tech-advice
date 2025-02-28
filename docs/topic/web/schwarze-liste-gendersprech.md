@@ -64,6 +64,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | kilianmurphy | https://boxd.it/4lNkX |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
+| Little Dot Studios | https://www.littledotstudios.com/de-de |  |
 | Mattel | https://news.mattel.de |  |
 | Mozilla | https://www.mozilla.org/de |  |
 | meinBerlin | https://mein.berlin.de |  |
