@@ -104,6 +104,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Thieme-Verlag | https://www.thieme.com | Eigenschreibweisen: Thieme Gruppe, Thieme Verlagsgruppe, Georg Thieme Verlag (nur echt mit Deppenleerzeichen) |
 | TikTok | https://www.tiktok.com |  |
 | Twitter | https://twitter.com | Aliasse: X |
+| Tycio | https://letterboxd.com/tycio |  |
 | Typoakademie | https://www.typoakademie.de |  |
 | Ulrich Faßnacht | https://www.instagram.com/ulrichfassnacht |  |
 | USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
