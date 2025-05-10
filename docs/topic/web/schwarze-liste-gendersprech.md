@@ -99,6 +99,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Tchncs | https://tchncs.de | Nicht einmal für einen einheitlichen Stil des Schwachsinns konnte man sich entscheiden |
 | Tegut | https://www.tegut.com |  |
 | TeilzeitHelden | https://www.teilzeithelden.de |  |
+| Terra X Lesch & Co | https://youtube.com/@terraxleschundco |  |
 | Teufel | https://teufel.de |  |
 | Thalia | https://www.thalia.de |  |
 | Thieme-Verlag | https://www.thieme.com | Eigenschreibweisen: Thieme Gruppe, Thieme Verlagsgruppe, Georg Thieme Verlag (nur echt mit Deppenleerzeichen) |
