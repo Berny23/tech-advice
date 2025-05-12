@@ -1,8 +1,8 @@
-# Tech Advice
+# Some tech stuff
 
 ## About
 
-A collection of useful tips, guides and lists about tech topics.
+Articles about something or nothing.
 
 ## Topics
 
@@ -27,6 +27,3 @@ A collection of useful tips, guides and lists about tech topics.
 
 * [Lego Star Wars II: The Original Trilogy](topic/game/nds/lego-star-wars-ii/index.md)
 
-## Credits
-
-* Managed and curated by [Berny23](https://linktr.ee/berny23)

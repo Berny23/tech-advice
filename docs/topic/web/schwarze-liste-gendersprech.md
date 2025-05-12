@@ -117,6 +117,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | WhatsApp | https://www.whatsapp.com |  |
 | Wikipedia | https://www.wikipedia.de | Seiten zu Events und Treffen sind von sexistischer Sprache geplagt. |
 | Xing | https://www.xing.com | Aliasse: XING |
+| ZDF Magazin Royale | https://www.zdf.de/shows/zdf-magazin-royale-102 | Moderiert vom Linksextremisten Jan Böhmermann. Nachfolgesendung von Neo Magazin Royale. |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
 | ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Hurensohnsprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
 | Leibniz-Zentrum für Literatur- und Kulturforschung | https://www.zfl-berlin.org | Die hätten lieber bei ihren Keksen bleiben sollen. ;) |
