@@ -35,6 +35,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Chip | https://www.chip.de |  |
 | Christian Bläul | https://blaeul.de | Danke für die nachhaltige Verkrüppelung unserer Sprache. |
 | Deezer | https://www.deezer.com |  |
+| Deutschlandfunk | https://www.deutschlandfunk.de | Min. eine Sexistin spricht in der Sendung in Hurensohnsprache |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
 | Diogenes-Verlag | https://www.diogenes.ch | Eigenschreibweise: Diogenes Verlag (nur echt mit Deppenleerzeichen) |
