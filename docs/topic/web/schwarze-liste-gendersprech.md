@@ -82,6 +82,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Open Access Network | https://open-access.network |  |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
+| Produkt.at | https://www.produkt.at |  |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
