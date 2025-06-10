@@ -57,6 +57,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Handyhase | https://www.handyhase.de |  |
 | HiFi.de | https://hifi.de | Können sich nicht einmal entscheiden, welche Zeichen sie für die Scheiße benutzen. |
 | idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
+| Incertum | https://www.incertum.net | Aliasse: Informatik aus Versehen |
 | J. Hornig | https://www.jhornig.com |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | JetBrains | https://www.jetbrains.com |  |
@@ -86,7 +87,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
-| Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf, Yannik Frickenschmidt |
+| Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf |
 | Rotze | https://open.spotify.com/artist/7e6mHn187ZchzIjtrRg4IX | Musik-Band. Der Name ist wohl Programm, auch bei der Sprache. |
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
 | Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Terrorattacke auf unsere bereits marode Schulbildung |
