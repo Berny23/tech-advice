@@ -72,6 +72,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Mozilla | https://www.mozilla.org/de |  |
 | meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
+| MrVenom1974 | https://www.youtube.com/@MrVenom1974 | Sexist redet über Retrospiele. Schade um ihn, mochte die Stimme. |
 | Napster | https://www.napster.com/de |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
 | Nerdbeben | https://boxd.it/4Mpkt | Schade, dass man gute Reviews so verschandeln muss. |
