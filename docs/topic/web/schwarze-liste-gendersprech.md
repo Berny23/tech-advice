@@ -46,6 +46,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
 | FragDenStaat | https://fragdenstaat.de |  |
 | Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
+| FUNKE Mediengruppe | https://www.funkemedien.de/de | Marken: 4p.de |
 | Futurezone | https://futurezone.at |  |
 | Game Two | https://www.youtube.com/@GameTwo |  |
 | GamePro | https://www.gamepro.de |  |
