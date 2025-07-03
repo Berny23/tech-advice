@@ -56,6 +56,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Hamburg | https://www.hamburg.de |  |
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
+| Honeyball | https://www.youtube.com/@HoneyballLP |  |
 | HiFi.de | https://hifi.de | Können sich nicht einmal entscheiden, welche Zeichen sie für die Scheiße benutzen. |
 | idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
 | Incertum | https://www.incertum.net | Aliasse: Informatik aus Versehen |
