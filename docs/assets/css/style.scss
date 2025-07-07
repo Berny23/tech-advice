@@ -11,3 +11,13 @@
         font-size: 1.1rem;
     }
 }
+
+details > summary:first-of-type {
+    display: list-item;
+    cursor: pointer;
+}
+
+details > div {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
