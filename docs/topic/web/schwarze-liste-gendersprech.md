@@ -7,6 +7,7 @@ Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sic
 Dies hier ist eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und [Diskriminierung Andersdenkender](https://www.corrigenda.online/kultur/juergen-ploehn-wie-ich-mich-gegen-gendersprech-meiner-universitaet-zur-wehr-setzte) befürworten.
 
 <details markdown="1">
+
     <summary>Genauere Ausführungen, bei Interesse aufklappen</summary>
     
     Gendersprech basiert auf der falschen Vorstellung, dass das generische Maskulinum nur Männer ansprechen würde. Das ist faktisch belegt falsch, da diese Form auf die indogermanischen Sprachen zurückgeht und es damals eben nur eine Bezeichnung für Menschen jeglichen Geschlechts gab. Diese ist heute als das generische Maskulinum (Maskulinum in Bezug auf grammatisches, nicht biologisches Geschlecht) bekannt. Darum funktionieren solche Schwachsinnsideen wie das „generische Femininum“ auch nicht, da diese tatsächlich ausschließlich Frauen ansprechen sollten und sollen.
