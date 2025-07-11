@@ -58,7 +58,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Facebook | https://www.facebook.com |  |
 | Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
 | FragDenStaat | https://fragdenstaat.de |  |
-| Funk | https://www.funk.net | Projekte: Auf Klo, Der Fall, Y-Kollektiv |
+| Funk | https://www.funk.net | Projekte mit sexistischer Sprache: Auf Klo, Der Fall, Y-Kollektiv, Cinema Strikes Back („Gästin“) |
 | FUNKE Mediengruppe | https://www.funkemedien.de/de | Marken: 4p.de |
 | Futurezone | https://futurezone.at |  |
 | Game Two | https://www.youtube.com/@GameTwo |  |
