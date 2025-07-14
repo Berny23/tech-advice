@@ -97,7 +97,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Oche Balboa | https://boxd.it/3pX11 |  |
 | OE24 | https://www.oe24.at |  |
 | Open Access Network | https://open-access.network |  |
-| OpenProject | https://www.openproject.org/de |  |
+| OpenProject | https://www.openproject.org/de | Impressum → Berlin (Was auch sonst?) |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | Produkt.at | https://www.produkt.at |  |
