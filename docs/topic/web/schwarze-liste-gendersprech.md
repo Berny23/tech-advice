@@ -28,13 +28,13 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | 12drue | https://boxd.it/3ay3B |  |
 | 9elements | https://9elements.com/de |  |
 | Activision | https://www.activision.com/de | Aliasse: Activision Blizzard |
-| AdGuard | https://adguard.com/de | App ebenfalls verseucht! |
+| AdGuard | https://adguard.com/de | App ist ebenfalls verseucht. |
 | Amadeu-Antonio-Stiftung | https://www.amadeu-antonio-stiftung.de | Sehr engagierte Sexisten. Eigenschreibweise: Amadeu Antonio Stiftung (nur echt mit Deppenleerzeichen) |
 | Apple | https://www.apple.com |  |
-| Azubi | https://www.azubi.de | Diese Sexisten werben sogar mit ihrer linksextremen Sprachvergewaltigung |
+| Azubi | https://www.azubi.de | Diese Sexisten werben sogar damit. |
 | Azubiyo | https://www.azubiyo.de |  |
 | Bastei Lübbe | https://www.luebbe.de |  |
-| Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson |  |
+| Baumann Bergmann Pokinsson | https://youtube.com/@baumannbergmannpokinsson | Schade, mochte die Musik und Spiele gerne. |
 | Bergische Universität Wuppertal | https://www.uni-wuppertal.de |  |
 | Bethesda | https://bethesda.net/de |  |
 | Bildungsbericht | https://www.bildungsbericht.de | Bildung durch Ideologen und Sexisten? Nein, danke. |
@@ -48,7 +48,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Chip | https://www.chip.de |  |
 | Christian Bläul | https://blaeul.de | Danke für die nachhaltige Verkrüppelung unserer Sprache. |
 | Deezer | https://www.deezer.com |  |
-| Deutschlandfunk | https://www.deutschlandfunk.de | Min. eine Sexistin spricht in der Sendung in Hurensohnsprache |
+| Deutschlandfunk | https://www.deutschlandfunk.de | Min. eine sexistische Moderatorin |
 | dfv-Mediengruppe | https://www.dfv.de | Aliasse: Deutscher Fachverlag |
 | Die Nachbarn | https://die-nachbarn.podigee.io | Ab Folge „Das Interview“, Aliasse: Leonie Bartsch & Linn Schütze |
 | Diogenes-Verlag | https://www.diogenes.ch | Eigenschreibweise: Diogenes Verlag (nur echt mit Deppenleerzeichen) |
@@ -58,13 +58,13 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Facebook | https://www.facebook.com |  |
 | Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
 | FragDenStaat | https://fragdenstaat.de |  |
-| Funk | https://www.funk.net | Projekte mit sexistischer Sprache: Auf Klo, Der Fall, Y-Kollektiv, Cinema Strikes Back („Gästin“) |
+| Funk | https://www.funk.net | Projekte mit sexistischer Sprache: Auf Klo, Der Fall, Y-Kollektiv, Cinema Strikes Back („Gästin“ u. Ä.) |
 | FUNKE Mediengruppe | https://www.funkemedien.de/de | Marken: 4p.de |
 | Futurezone | https://futurezone.at |  |
 | Game Two | https://www.youtube.com/@GameTwo |  |
 | GamePro | https://www.gamepro.de |  |
 | GnuPG | https://gnupg.com |  |
-| Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music |
+| Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music, wohl ein Einzeltäter. |
 | Goethe-Institut | https://goethe.de |  |
 | Hamburg | https://www.hamburg.de |  |
 | HateAid | https://hateaid.org |  |
@@ -87,7 +87,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Mozilla | https://www.mozilla.org/de |  |
 | meinBerlin | https://mein.berlin.de |  |
 | Meta | https://www.meta.com |  |
-| MrVenom1974 | https://www.youtube.com/@MrVenom1974 | Sexist redet über Retrospiele. Schade um ihn, mochte die Stimme. |
+| MrVenom1974 | https://www.youtube.com/@MrVenom1974 | Sexist redet über Retrospiele. Schade um ihn, mochte die Stimme und die Themen. |
 | Napster | https://www.napster.com/de |  |
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
 | Nerdbeben | https://boxd.it/4Mpkt | Schade, dass man gute Reviews so verschandeln muss. |
@@ -107,7 +107,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf |
 | Rotze | https://open.spotify.com/artist/7e6mHn187ZchzIjtrRg4IX | Musik-Band. Der Name ist wohl Programm, auch bei der Sprache. |
 | Sam Vimes | https://phabricator.kde.org/p/samvimes | Aliasse: samvimes |
-| Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Terrorattacke auf unsere bereits marode Schulbildung |
+| Sarah-Sofie Armbrust | https://link.springer.com/book/10.1007/978-3-658-37706-9 | Eine weitere Attacke auf unsere bereits marode Schulbildung |
 | Schülerrabatte | https://www.schuelerrabatte.com/de |  |
 | ScienceSlam | https://www.scienceslam.de |  |
 | SciFlow | https://www.sciflow.net/de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
@@ -137,9 +137,9 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | WhatsApp | https://www.whatsapp.com |  |
 | Wikipedia | https://www.wikipedia.de | Seiten zu Events und Treffen sind von sexistischer Sprache geplagt. |
 | Xing | https://www.xing.com | Aliasse: XING |
-| ZDF Magazin Royale | https://www.zdf.de/shows/zdf-magazin-royale-102 | Moderiert vom Linksextremisten Jan Böhmermann. Nachfolgesendung von Neo Magazin Royale. |
+| ZDF Magazin Royale | https://www.zdf.de/shows/zdf-magazin-royale-102 | Moderiert vom Fähnchen im Wind Jan Böhmermann. Nachfolgesendung von Neo Magazin Royale. |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
-| ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Hurensohnsprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
+| ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Sexistensprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
 | Leibniz-Zentrum für Literatur- und Kulturforschung | https://www.zfl-berlin.org | Die hätten lieber bei ihren Keksen bleiben sollen. ;) |
 
 ## Computerspiele
