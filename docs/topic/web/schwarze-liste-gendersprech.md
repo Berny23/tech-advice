@@ -57,6 +57,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Expert | https://www.expert.de |  |
 | Facebook | https://www.facebook.com |  |
 | Felix Ernst | https://wordsmith.social/felixernst | Die Texte sind auch so schon voller Deppenleerzeichen, Grammatikfehler und mehr |
+| Filmtoast | https://www.filmtoast.de |  |
 | FragDenStaat | https://fragdenstaat.de |  |
 | Funk | https://www.funk.net | Projekte mit sexistischer Sprache: Auf Klo, Der Fall, Y-Kollektiv, Cinema Strikes Back („Gästin“ u. Ä.) |
 | FUNKE Mediengruppe | https://www.funkemedien.de/de | Marken: 4p.de |
