@@ -82,6 +82,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | julihan41 | https://www.gutefrage.net/nutzer/julihan41 |  |
 | kino.de | https://www.kino.de |  |
 | kilianmurphy | https://boxd.it/4lNkX |  |
+| KWiNK | https://youtube.com/@kwink |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Little Dot Studios | https://www.littledotstudios.com/de-de |  |
