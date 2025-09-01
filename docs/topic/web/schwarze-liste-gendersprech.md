@@ -103,6 +103,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | OpenProject | https://www.openproject.org/de | Impressum → Berlin (Was auch sonst?) |
 | OpenRewi | https://openrewi.org |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
+| Podimo | https://podimo.com/de |  |
 | Produkt.at | https://www.produkt.at |  |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Rausgegangen | https://rausgegangen.de |  |
