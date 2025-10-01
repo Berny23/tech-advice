@@ -98,6 +98,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | NeustartBildungJetzt | https://neustart-bildung-jetzt.de | Angebot der „Vodafone Stiftung“ (nur echt mit Deppenleerzeichen) |
 | Netflix | https://www.netflix.com/de |  |
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
+| Nintendo Connect | https://nintendo-connect.de | Keine offizielle Nintendo-Webseite |
 | Oche Balboa | https://boxd.it/3pX11 |  |
 | OE24 | https://www.oe24.at |  |
 | Open Access Network | https://open-access.network |  |
