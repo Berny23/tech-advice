@@ -77,6 +77,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | HiFi.de | https://hifi.de | Können sich nicht einmal entscheiden, welche Zeichen sie für die Scheiße benutzen. |
 | idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
 | Incertum | https://www.incertum.net | Aliasse: Informatik aus Versehen |
+| Infomaniak | https://www.infomaniak.com/de |  |
 | J. Hornig | https://www.jhornig.com |  |
 | Jasmin Solfaghari | https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839440025-015 |  |
 | JetBrains | https://www.jetbrains.com |  |
