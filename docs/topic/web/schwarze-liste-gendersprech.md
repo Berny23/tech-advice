@@ -45,6 +45,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | BurdaForward | https://www.burda-forward.de |  |
 | C. H. Beck | https://www.chbeck.de |  |
 | cassandras_view | https://boxd.it/6w26z |  |
+| Campact | https://www.campact.de |  |
 | Chaos Computer Club | https://www.ccc.de | Aliasse: CCC |
 | Chip | https://www.chip.de |  |
 | Christian Bläul | https://blaeul.de | Danke für die nachhaltige Verkrüppelung unserer Sprache. |
