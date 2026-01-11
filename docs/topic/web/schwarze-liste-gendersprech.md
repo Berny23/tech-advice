@@ -109,6 +109,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Open Access Network | https://open-access.network |  |
 | OpenProject | https://www.openproject.org/de | Impressum → Berlin (Was auch sonst?) |
 | OpenRewi | https://openrewi.org |  |
+| Orkenspalter TV | https://www.youtube.com/@orkenspaltertv |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | Podimo | https://podimo.com/de |  |
 | Produkt.at | https://www.produkt.at |  |
