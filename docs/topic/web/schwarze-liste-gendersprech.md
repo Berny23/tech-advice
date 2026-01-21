@@ -91,6 +91,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
 | Little Dot Studios | https://www.littledotstudios.com/de-de |  |
+| Löschebrand | https://youtube.com/@loschebrandoffiziell4942 |  |
 | Mattel | https://news.mattel.de |  |
 | Metal1 | https://www.metal1.info |  |
 | Mozilla | https://www.mozilla.org/de |  |
