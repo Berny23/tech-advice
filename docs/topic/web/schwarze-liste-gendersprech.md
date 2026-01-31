@@ -155,6 +155,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | Xing | https://www.xing.com | Aliasse: XING |
 | ZDF Magazin Royale | https://www.zdf.de/shows/zdf-magazin-royale-102 | Moderiert vom Fähnchen im Wind Jan Böhmermann. Nachfolgesendung von Neo Magazin Royale. |
 | ZDFinfo Dokus & Reportagen | https://youtube.com/@ZDFDoku |  |
+| Zeughauskino | https://boxd.it/2NHfF |  |
 | ZfL | https://zfl.uni-koeln.de | Abkürzung für: Zentrum für Lehrerbildung (im Original natürlich in Sexistensprache geschrieben). Der YouTube-Kanal ist dabei noch eine ganz andere Hölle.  |
 | Leibniz-Zentrum für Literatur- und Kulturforschung | https://www.zfl-berlin.org | Die hätten lieber bei ihren Keksen bleiben sollen. ;) |
 
