@@ -92,6 +92,7 @@ Hinweis: Verlaufsformen zählen nur dann als "Gendern", wenn sie aufdringlich, u
 | LinkedIn | https://www.linkedin.com |  |
 | Little Dot Studios | https://www.littledotstudios.com/de-de |  |
 | Löschebrand | https://youtube.com/@loschebrandoffiziell4942 |  |
+| mastodon.social | https://mastodon.social |  |
 | Mattel | https://news.mattel.de |  |
 | Metal1 | https://www.metal1.info |  |
 | Mozilla | https://www.mozilla.org/de |  |
