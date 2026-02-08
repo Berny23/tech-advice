@@ -2,13 +2,11 @@
 
 Wer die Sprache kontrolliert, hat Macht über das Denken der Menschen – und womit lässt sich besser herrschen als mit Angst und Ausgrenzung? Gendersprache erinnert nicht zufällig an das „Neusprech“ in Orwells dystopischem Roman „1984“. Eine Lektüre lohnt sich!
 
-Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter der kontextlosen, generischen Bezeichnung „die Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.
-
 Gendersprech basiert auf der falschen Vorstellung, dass das generische Maskulinum nur Männer ansprechen würde. Das ist faktisch belegt falsch, da diese Form auf die indogermanischen Sprachen zurückgeht und es damals eben nur eine Bezeichnung für Menschen jeglichen Geschlechts gab. Diese ist heute als das generische Maskulinum (Maskulinum in Bezug auf grammatisches, nicht biologisches Geschlecht) bekannt. Darum funktionieren solche Schwachsinnsideen wie das „generische Femininum“ auch nicht, da diese tatsächlich ausschließlich Frauen ansprechen sollten und sollen.
 
 Und darum entsteht ein großes Problem, wenn man ein perfektes, jahrhundertealtes System mit Halbwahrheiten, Ahnungslosigkeit und extremistischer Ideologie durcheinanderzubringen versucht. Es gab leider einige feministische Autoren, die meist seit den 90er-Jahren den am Anfang erwähnten Unsinn so oft wiederholten, dass es immer mehr andere Feministen glaubten und diese Urlüge Jahrzehnte später plötzlich im Mainstream ankam.
 
-Zum Thema Sexismus hier ein Eigenzitat des Einleitungstextes: »Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter der kontextlosen, generischen Bezeichnung „die Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.«
+Zum Thema Sexismus: Das sogenannte Problem liegt am Menschen, nicht an unserer Sprache. Denn wer sich unter der kontextlosen, generischen Bezeichnung „die Schüler“ nur Jungen vorstellt, ist schlicht ein Sexist.
 
 Wer sich also ganz bewusst für eine stärkere Hervorhebung, die ja eindeutig über die bekannte Doppelnennung hinausgeht, entscheidet, zieht die Geschlechter nur noch weiter auseinander, rückt sie also plötzlich in den Vordergrund, wo vorher ja der eigentliche Sachverhalt war. In fast allen dieser Gendersprech-Texte spielt das Geschlecht der Protagonisten nämlich eigentlich überhaupt keine Rolle, wenn es etwa um Themen wie Spieleranzahl eines Shooters, Drehbuchautoren eines Krimis, Rettungssanitäter am Ort eines Unfalls oder Polizisten auf Drogenfahndung geht. Macht ein weiblicher Polizist bessere Arbeit als ein männlicher? Ist es wichtig, dass ein Mann dieses neue MMO zockt, und würde sich eine Frau anders dabei anstellen?
 
