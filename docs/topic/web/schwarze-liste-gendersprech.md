@@ -66,6 +66,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Game Two | https://www.youtube.com/@GameTwo |  |
 | GamePro | https://www.gamepro.de |  |
 | GnuPG | https://gnupg.com |  |
+| GoDaddy | https://www.godaddy.com/de |  |
 | Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music, wohl ein Einzeltäter. |
 | Goethe-Institut | https://goethe.de |  |
 | Hamburg | https://www.hamburg.de |  |
