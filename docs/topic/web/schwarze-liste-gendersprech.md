@@ -29,6 +29,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Amadeu-Antonio-Stiftung | https://www.amadeu-antonio-stiftung.de | Sehr engagierte Sexisten. Eigenschreibweise: Amadeu Antonio Stiftung (nur echt mit Deppenleerzeichen) |
 | Amazon Music | https://www.amazon.de/music |  |
 | Apple | https://www.apple.com |  |
+| ARD | https://youtube.com/@ard |  |
 | Arte TRACKS | https://youtube.com/@artetracks | Sexismus – finanziert von Zwangsgebüren |
 | Azubi | https://www.azubi.de | Diese Sexisten werben sogar damit. |
 | Azubiyo | https://www.azubiyo.de |  |
