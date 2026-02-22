@@ -27,3 +27,6 @@ Articles about something or nothing.
 
 * [Lego Star Wars II: The Original Trilogy](topic/game/nds/lego-star-wars-ii/index.md)
 
+#### PC
+
+* [Cyberpunk 2077](topic/game/pc/cyberpunk-2077/index.md)
