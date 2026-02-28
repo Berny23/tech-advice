@@ -113,6 +113,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | OpenRewi | https://openrewi.org |  |
 | Orkenspalter TV | https://www.youtube.com/@orkenspaltertv |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
+| Perplexity | https://www.perplexity.ai |  |
 | Podimo | https://podimo.com/de |  |
 | Produkt.at | https://www.produkt.at |  |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
