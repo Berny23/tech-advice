@@ -74,6 +74,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
 | HFF München | https://www.hff-muc.de |  |
+| Heike Specht |  | Autorin |
 | Honeyball | https://www.youtube.com/@HoneyballLP |  |
 | HiFi.de | https://hifi.de | Können sich nicht einmal entscheiden, welche Zeichen sie für die Scheiße benutzen. |
 | idw | https://idw-online.de | Aliasse: Informationsdienst Wissenschaft |
