@@ -130,6 +130,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Scribbr | https://www.scribbr.de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
 | Signal | https://www.signal.org |  |
 | Spotify | https://www.spotify.com |  |
+| Stripe | https://stripe.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
 | Systemabsturz | https://www.instagram.com/system_absturz | Deutsche Musik machen, aber dann unsere schöne Sprache zerstören – na klar doch! |
 | Tchncs | https://tchncs.de | Nicht einmal für einen einheitlichen Stil des Schwachsinns konnte man sich entscheiden |
