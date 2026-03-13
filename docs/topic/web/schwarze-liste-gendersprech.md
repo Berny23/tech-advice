@@ -16,7 +16,7 @@ Um es mit einem Beispielsatz über ein anderes menschliches Merkmal anschauliche
 
 Bitte einfach mal darüber nachdenken, was diese erzwungenen Sprachänderungen für Konsequenzen haben.
 
-Gutes Video aus grammatischer Sichtweise: https://youtu.be/w-ALaH0Pvkg
+[Empfehlenswertes Video mit grammatischer Sichtweise (von Dr. Oll)](https://youtu.be/w-ALaH0Pvkg)
 
 Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverblendeten, die deutsche Sprache misshandelnden Internetseiten, Organisationen und Individuen, die unsere Realität ein Stück Richtung „1984“ bringen wollen und [Diskriminierung Andersdenkender](https://www.corrigenda.online/kultur/juergen-ploehn-wie-ich-mich-gegen-gendersprech-meiner-universitaet-zur-wehr-setzte) befürworten.
 
