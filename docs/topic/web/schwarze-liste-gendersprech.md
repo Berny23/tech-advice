@@ -120,6 +120,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Podimo | https://podimo.com/de |  |
 | Produkt.at | https://www.produkt.at |  |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
+| Quarks Dimension Ralph | https://youtube.com/@dimensionralph |  |
 | Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf |
