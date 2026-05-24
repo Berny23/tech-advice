@@ -88,7 +88,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Johannes | https://boxd.it/3KTsz |  |
 | julihan41 | https://www.gutefrage.net/nutzer/julihan41 |  |
 | kino.de | https://www.kino.de |  |
-| kilianmurphy | https://boxd.it/4lNkX |  |
+| kilianmurphy | https://boxd.it/4lNkX | Soziologiestudent, daher also die sexistische Sprache |
 | KWiNK | https://youtube.com/@kwink |  |
 | LangweileDich | https://langweiledich.net |  |
 | LinkedIn | https://www.linkedin.com |  |
