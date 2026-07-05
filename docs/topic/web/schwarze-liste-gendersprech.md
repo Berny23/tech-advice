@@ -73,6 +73,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music, wohl ein Einzeltäter. |
 | Goethe-Institut | https://goethe.de |  |
 | Hamburg | https://www.hamburg.de |  |
+| Hannes' Filmarchiv | https://www.yllr.net/filmarchiv | Rezensionen |
 | HateAid | https://hateaid.org |  |
 | Handyhase | https://www.handyhase.de |  |
 | HFF München | https://www.hff-muc.de |  |
