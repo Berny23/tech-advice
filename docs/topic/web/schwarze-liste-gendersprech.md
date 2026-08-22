@@ -68,6 +68,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Futurezone | https://futurezone.at |  |
 | Game Two | https://www.youtube.com/@GameTwo |  |
 | GamePro | https://www.gamepro.de |  |
+| GamingJourneys | https://gamingjourneys.de | Komplett krank, sogar das Wort "Mitglieder" wird dort vergewaltigt. |
 | GnuPG | https://gnupg.com |  |
 | GoDaddy | https://www.godaddy.com/de |  |
 | Google | https://www.google.com | Manche Events im Play Store, eine Formulierung in YouTube Music, wohl ein Einzeltäter. |
