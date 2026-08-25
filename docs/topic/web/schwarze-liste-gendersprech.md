@@ -89,6 +89,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | JetBrains | https://www.jetbrains.com |  |
 | Johannes | https://boxd.it/3KTsz |  |
 | julihan41 | https://www.gutefrage.net/nutzer/julihan41 |  |
+| Keinen Pixel dem Faschismus | https://keinenpixel.de |  |
 | kino.de | https://www.kino.de |  |
 | kilianmurphy | https://boxd.it/4lNkX | Soziologiestudent, daher also die sexistische Sprache |
 | KWiNK | https://youtube.com/@kwink |  |
