@@ -139,6 +139,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | SciFlow | https://www.sciflow.net/de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
 | Scribbr | https://www.scribbr.de | Diese Sexisten wollen auch noch für ihre Untaten bezahlt werden. |
 | Signal | https://www.signal.org |  |
+| Sony Music | https://www.sonymusic.de |  |
 | Spotify | https://www.spotify.com |  |
 | Stripe | https://stripe.com |  |
 | Studienwahl | https://studienwahl.de | Bereitgestellt durch die Bundesagentur für Arbeit |
