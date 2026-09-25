@@ -120,6 +120,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Orkenspalter TV | https://www.youtube.com/@orkenspaltertv |  |
 | Penguin Random House | https://www.penguin.de | Aliasse: Verlagsgruppe Random House, Verlagsgruppe Bertelsmann |
 | Perplexity | https://www.perplexity.ai |  |
+| Play Europa | https://www.play-europa.de | Lasst die Hörspiele meiner Kindheit in Ruhe, ihr verdammten Hurensöhne! Und dann auch noch diese sexistische Sprache auf einer Plattform für Kinder. Ich konnte übrigens beim Genuss von den Drei ??? keinerlei Rassismus oder andere Probleme erkennen. |
 | Podimo | https://podimo.com/de |  |
 | Produkt.at | https://www.produkt.at |  |
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
