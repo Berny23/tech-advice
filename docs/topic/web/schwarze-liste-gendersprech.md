@@ -30,6 +30,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | AdGuard | https://adguard.com/de | App ist ebenfalls verseucht. |
 | Amadeu-Antonio-Stiftung | https://www.amadeu-antonio-stiftung.de | Sehr engagierte Sexisten. Eigenschreibweise: Amadeu Antonio Stiftung (nur echt mit Deppenleerzeichen) |
 | Amazon Music | https://www.amazon.de/music |  |
+| Antidiskriminierungsstelle | https://www.antidiskriminierungsstelle.gov.de | Ausgerechnet eine Seite mit sexistischem Gendersprech hält Antidiskriminierung hoch. |
 | Apple | https://www.apple.com |  |
 | ARD | https://youtube.com/@ard |  |
 | Arte TRACKS | https://youtube.com/@artetracks | Sexismus – finanziert von Zwangsgebüren |
@@ -109,6 +110,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | nd | https://www.nd-aktuell.de | Aliasse: neues deutschland, Neues Deutschland |
 | Nerdbeben | https://boxd.it/4Mpkt | Schade, dass man gute Reviews so verschandeln muss. |
 | NeustartBildungJetzt | https://neustart-bildung-jetzt.de | Angebot der „Vodafone Stiftung“ (nur echt mit Deppenleerzeichen) |
+| Neue deutsche Medienmacher | https://www.neuemedienmacher.de | Wohl eher neue deutsche Sexisten. |
 | Netflix | https://www.netflix.com/de |  |
 | Netzwerk Friedenskooperative | https://www.friedenskooperative.de |  |
 | Nintendo Connect | https://nintendo-connect.de | Keine offizielle Nintendo-Webseite |
@@ -155,6 +157,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Typoakademie | https://www.typoakademie.de |  |
 | Ulrich Faßnacht | https://www.instagram.com/ulrichfassnacht |  |
 | USK | https://usk.de | Aliasse: „Unterhaltungssoftware Selbstkontrolle“ (nur echt mit Deppenleerzeichen) |
+| Utopia | https://utopia.de |  |
 | Verdi | https://www.verdi.de | Aliasse: Vereinte Dienstleistungsgewerkschaft, ver.di |
 | Vicky & das Wort | https://vickieunddaswort.de | Merkwürdige Abkürzungen und sexistische Sprache. |
 | VierEckAuge | https://boxd.it/Xmlz | Ist zwar gegen Rassismus (gut!), aber dafür eine Sexistin. Schade. |
