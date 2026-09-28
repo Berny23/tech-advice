@@ -42,6 +42,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | Bethesda | https://bethesda.net/de |  |
 | Bildungsbericht | https://www.bildungsbericht.de | Bildung durch Ideologen und Sexisten? Nein, danke. |
 | Bonn | https://www.bonn.de |  |
+| BookBeat | https://www.bookbeat.com/de |  |
 | Brockhaus | https://brockhaus.de |  |
 | bruno_mattei | https://letterboxd.com/bruno_mattei |  |
 | BurdaForward | https://www.burda-forward.de |  |
