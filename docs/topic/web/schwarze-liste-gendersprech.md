@@ -129,6 +129,7 @@ Es folgt nun eine öffentliche Schwarze Liste zum Anprangern von ideologieverble
 | ProSiebenSat.1 | https://www.prosiebensat1.com | Aliasse/Marken: ProSieben, JOYN, Puls 4 |
 | Quarks | https://youtube.com/@quarks |  |
 | Quarks Dimension Ralph | https://youtube.com/@dimensionralph |  |
+| Radio Nukular | https://www.radionukular.de | Ich bin echt am Boden zerstört, eure frühen Podcastfolgen habe ich geliebt. Und nun gehört ihr zu den Sexisten, einfach schade. |
 | Rausgegangen | https://rausgegangen.de |  |
 | Reddit | https://www.reddit.com |  |
 | Rezo | https://www.youtube.com/@Renzo69 | Aliasse: Rezo ja lol ey, Renzo, Schlumpf |
